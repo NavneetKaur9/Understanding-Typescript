@@ -1,4 +1,4 @@
-` tsc --init ` - Initializes a TypeScript project and creates a tsconfig.json file.
+```tsc --init ``` - Initializes a TypeScript project and creates a tsconfig.json file.
 
 ` "noEmitOnError": true ` - Do not emit outputs if any errors were reported.
 
